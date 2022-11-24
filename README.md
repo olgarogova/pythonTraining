@@ -31,7 +31,7 @@ tagcounter --synonyms
 Добавить:
 tagcounter --add tst http://python.org
 tst - синоним
-http://python.org - урл
+http://python.org - url
 
 Удалить синоним:
 tagcounter --delete tst
