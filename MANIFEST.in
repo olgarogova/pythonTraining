@@ -1,0 +1,3 @@
+include package_tagcounter/synonyms.yaml
+include package_tagcounter/requests.log
+include package_tagcounter/tagcounter.db
